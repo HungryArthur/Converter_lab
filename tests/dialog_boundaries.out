@@ -1,0 +1,10 @@
+1) dec -> base (2..16)
+2) base (2..16) -> dec
+3) exit
+> number: base: result: 7FFFFFFF
+> number: base: result: -80000000
+> digits: base: result: 2147483647
+> digits: base: result: -2147483648
+> digits: base: error: number is outside int range
+> number: error: number is outside int range
+> 

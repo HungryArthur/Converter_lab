@@ -1,0 +1,14 @@
+make clean
+make[1]: Entering directory '/mnt/c/Users/Arthur/Documents/ChatGPT/Лабараторная C/LR01_Converter'
+rm -f main.o integer.o fraction.o input.o output.o cli.o converter converter.exe
+make[1]: Leaving directory '/mnt/c/Users/Arthur/Documents/ChatGPT/Лабараторная C/LR01_Converter'
+make all
+make[1]: Entering directory '/mnt/c/Users/Arthur/Documents/ChatGPT/Лабараторная C/LR01_Converter'
+gcc -std=c11 -Wall -Wextra -Werror -c main.c -o main.o
+gcc -std=c11 -Wall -Wextra -Werror -c integer.c -o integer.o
+gcc -std=c11 -Wall -Wextra -Werror -c fraction.c -o fraction.o
+gcc -std=c11 -Wall -Wextra -Werror -c input.c -o input.o
+gcc -std=c11 -Wall -Wextra -Werror -c output.c -o output.o
+gcc -std=c11 -Wall -Wextra -Werror -c cli.c -o cli.o
+gcc -std=c11 -Wall -Wextra -Werror main.o integer.o fraction.o input.o output.o cli.o -o converter
+make[1]: Leaving directory '/mnt/c/Users/Arthur/Documents/ChatGPT/Лабараторная C/LR01_Converter'

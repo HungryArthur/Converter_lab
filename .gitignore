@@ -1,0 +1,6 @@
+*.o
+/converter
+/.test-results.*/
+__pycache__/
+*.pyc
+*.zip

@@ -1,0 +1,5 @@
+1) dec -> base (2..16)
+2) base (2..16) -> dec
+3) exit
+> error: input line is too long or contains a NUL byte
+> 

@@ -1,0 +1,11 @@
+1) dec -> base (2..16)
+2) base (2..16) -> dec
+3) exit
+> error: menu choice must be 1, 2 or 3
+> error: menu choice must be 1, 2 or 3
+> number: error: invalid digit for base 10
+> digits: base: error: invalid digit for base 2
+> digits: base: error: invalid digit for base 16
+> number: base: error: base must be 2..16
+> number: base: result: 1D8
+> 

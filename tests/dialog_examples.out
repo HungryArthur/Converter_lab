@@ -1,0 +1,8 @@
+1) dec -> base (2..16)
+2) base (2..16) -> dec
+3) exit
+> number: base: result: 111011000
+> number: base: result: -1D8
+> digits: base: result: 472
+> number: base: result: 0
+> 

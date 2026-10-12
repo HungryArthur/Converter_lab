@@ -1,0 +1,10 @@
+472 / 2 = 236, remainder 0 (0)
+236 / 2 = 118, remainder 0 (0)
+118 / 2 = 59, remainder 0 (0)
+59 / 2 = 29, remainder 1 (1)
+29 / 2 = 14, remainder 1 (1)
+14 / 2 = 7, remainder 0 (0)
+7 / 2 = 3, remainder 1 (1)
+3 / 2 = 1, remainder 1 (1)
+1 / 2 = 0, remainder 1 (1)
+result: 111011000

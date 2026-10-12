@@ -1,0 +1,5 @@
+usage:
+  converter
+  converter NUMBER BASE
+  converter -table NUMBER
+  converter -step INTEGER BASE
